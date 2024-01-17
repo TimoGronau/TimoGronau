@@ -1,5 +1,5 @@
 ## Hey, welcome! 👋
-<hr>
+
 ## I'm Timo, a 27 years old backend/web developer currently based in Leipzig.
 
 
